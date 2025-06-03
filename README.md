@@ -116,9 +116,9 @@ Use a secure keystore and avoid exposing the private key.
 ## 📚 Resources
 
 - [Explorer](https://testnet.woxscan.com)
-- [Faucet (Coming Soon)](https://faucet.woxchain.com)
+- [Faucet](https://faucet.woxchain.com)
 - [GitHub](https://github.com/woxchain)
-- [Discord/Telegram](https://t.me/woxchain)
+- [Telegram](https://t.me/woxchain)
 
 ---
 

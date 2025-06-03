@@ -109,7 +109,7 @@ Use a secure keystore and avoid exposing the private key.
 
 - Deploy contracts using Remix or Hardhat
 - Monitor using [testnet.woxscan.com](https://testnet.woxscan.com)
-- Request test tokens from faucet (coming soon)
+- Request test tokens from faucet
 
 ---
 
